@@ -1,0 +1,5 @@
+
+
+function ItemChargeManipulate takes nothing returns nothing
+  
+endfunction
